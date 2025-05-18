@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is my first individually assigned bootcamp project, where I perform an **ETL (Extract, Transform, Load) workflow** and create basic data visualizations using Python and associated libraries such as pandas for creating codes, markdown for comments and matplotlib, seaborn for basic visualisations and plotly was used to create a basic interactive visualisation that is interactive. The dataset used is a CSV file containing healthcare insurance data.
+This project is my first individually assigned bootcamp project, where I perform an **ETL (Extract, Transform, Load) workflow** and create basic data visualizations using Python and associated libraries such as pandas for creating codes, markdown for comments and matplotlib, seaborn for basic visualisations and plotly was used to create a basic visualisation that is interactive. The dataset used is a CSV file containing healthcare insurance data.
 
 ## Objectives
 
