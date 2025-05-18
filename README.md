@@ -52,4 +52,4 @@ This project is my first individually assigned bootcamp project, where I perform
 
 ---
 
-*Created as part of my Data Analytics bootcamp journey!*
+*Created as part of my Data Analytics bootcamp journey!*# Individual-Project-1
