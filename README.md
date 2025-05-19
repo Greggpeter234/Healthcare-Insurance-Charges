@@ -106,7 +106,7 @@ As a student Data Analyst, I want to build an ETL pipeline to extract, clean, tr
 - Correlation heatmaps
 - Age vs. charges scatter plots
 - Categorical comparisons (e.g., smoker vs. non-smoker)
-- 
+  
 ## Credits
 - Copilot for code correction, review and explanation
 - Chatgpt for code research and context.
