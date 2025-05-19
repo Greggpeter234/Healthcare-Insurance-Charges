@@ -82,8 +82,8 @@ As a student Data Analyst, I want to build an ETL pipeline to extract, clean, tr
 - 3 The pipeline must validate and log each load, including row counts and data checksums.
 
 ### 4. Data Quality & Integrity
-- **AC4.1:** The pipeline shall include automated data quality checks (e.g., null checks, referential integrity) and alert on anomalies.
-- **AC4.2:** All transformation steps must be documented and auditable.
+- 1 The pipeline shall include automated data quality checks (e.g., null checks, referential integrity) and alert on anomalies.
+- 2 All transformation steps must be documented and auditable.
 - 
 ### 5. Security & Compliance
 - 1 Sensitive attributes (age, region) must be handled in compliance with data privacy regulations (e.g., HIPAA, GDPR).
@@ -120,4 +120,4 @@ As a student Data Analyst, I want to build an ETL pipeline to extract, clean, tr
 
 ---
 
-*Created as part of my Data Analytics bootcamp journey!*
+*Created as part of my Data Analytics Code Institute bootcamp journey!*
