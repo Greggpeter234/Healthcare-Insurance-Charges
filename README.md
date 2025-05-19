@@ -19,7 +19,7 @@ This project is my first individually assigned bootcamp project, where I perform
 - matplotlib
 - seaborn
 - plotly
-- NumPy)
+- NumPy
 - Jupyter Notebook
 - Git & GitHub
 - vs code
@@ -43,14 +43,14 @@ This project is my first individually assigned bootcamp project, where I perform
 4. **Visualize:** Generate plots to explore relationships and trends in the data.
 
 ## Agile Methodothology
-This is a collaborative and sustainable way of managing projects by breaking the work into small, manageable tasks, delivering results step by step, and improving tasks based on regular feedbacks (Beck, K., et al.(2001). Manifesto for Agile Software Development. [Link Text](https://agilemanifesto.org)
+This is a collaborative and sustainable way of managing projects by breaking the work into small, manageable tasks, delivering results step by step, and improving tasks based on regular feedbacks (Beck, K., et al.(2001). Manifesto for Agile Software Development. [https://agilemanifesto.org]
 ## User Story
 As a student Data Analyst, I want to build an ETL pipeline to extract, clean, transform, and load healthcare insurance cost data (including personal features such as age, gender, BMI, family size, smoking habits, and geographic region) from Kaggle, so that I can perform analysis, create and generate reports on how personal and geographic factors influence insurance costs.
 
 ## Tasks
 
 1. **Extract Data**  
-   - Download and extract healthcare insurance data from Kaggle (CSV format) [Link Text](https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance)
+   - Download and extract healthcare insurance data from Kaggle (CSV format) [https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance]
 2. **Clean Data**  
    - Handle missing values (impute or drop as appropriate).
    - Normalize data types and ensure correct formatting of all fields.
@@ -85,11 +85,11 @@ As a student Data Analyst, I want to build an ETL pipeline to extract, clean, tr
 - **AC4.1:** The pipeline shall include automated data quality checks (e.g., null checks, referential integrity) and alert on anomalies.
 - **AC4.2:** All transformation steps must be documented and auditable.
 - 
-###6. Security & Compliance
+### 5. Security & Compliance
 - 1 Sensitive attributes (age, region) must be handled in compliance with data privacy regulations (e.g., HIPAA, GDPR).
 - 2 Access to data must be restricted and audit-logged.
 
-### 7. Documentation & Monitoring
+### 6. Documentation & Monitoring
 - 1 The ETL process shall be documented with setup, configuration, and troubleshooting instructions.
 - 2 The pipeline must include monitoring and alerting for failures or significant data anomalies.
 
@@ -110,7 +110,7 @@ As a student Data Analyst, I want to build an ETL pipeline to extract, clean, tr
 ## Credits
 - Copilot for code correction, review and explanation
 - Chatgpt for code research and context.
-- Professional definition for Agile methodology. Beck, K., et al.(2001). Manifesto for Agile Software Development. [Link Text](https://agilemanifesto.org)
+- Professional definition for Agile methodology. Beck, K., et al.(2001). Manifesto for Agile Software Development. [https://agilemanifesto.org]
 
 
 ## Acknowledgements
