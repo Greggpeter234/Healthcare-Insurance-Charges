@@ -48,6 +48,9 @@ This project is my first individually assigned bootcamp project, where I perform
 - Correlation heatmaps
 - Age vs. charges scatter plots
 - Categorical comparisons (e.g., smoker vs. non-smoker)
+## Credits
+- Coopilot for code correction and explanation
+- Chatgpt for code research and context
 
 
 ---
