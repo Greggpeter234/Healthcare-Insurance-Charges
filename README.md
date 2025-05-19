@@ -115,8 +115,8 @@ As a student Data Analyst, I want to build an ETL pipeline to extract, clean, tr
 
 ## Acknowledgements
 - First and foremost my partner who provided support and understanding through out the course of this project and undertood that i have to be left alone to work and also helped in bringing insights and suggestions for my visualisation section.
-- To my instructors at code institute who have been very supportive and helpful and take their time to ensure we are all good even during times i lost confidence in myself. Most especially to Emma who is very patient with all of us.
-- Lastly to the Almighty
+- To my instructors at code institute who have been very supportive and helpful and take their time to ensure we are all good even during times i lost confidence in myself. Most especially to Emma who is very reassuring and patient with us.
+
 
 ---
 
